@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
         //顯示分支,合併差異點 git diff <current_branch_name>...<target_branch_name>
         /***取消操作並重新修改commit名 git commit -m "修正commit" --amend***/
         //
+        //
         /***取消已暫存的檔案 get reset head <file_name>***/
         /***取消對檔案的修改 git checkout -- <file_name>***/
 
