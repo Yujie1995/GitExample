@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         //
         //
         //
+        //
         /***取消已暫存的檔案 get reset head <file_name>***/
         /***取消對檔案的修改 git checkout -- <file_name>***/
 
