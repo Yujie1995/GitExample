@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //
         //入門
         /***查看個人設定 git config --list***/
         //設定全域使用者名稱 git config --global user.name "XXX"
