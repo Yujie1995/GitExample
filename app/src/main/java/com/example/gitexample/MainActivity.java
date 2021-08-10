@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         //已修改已暫存,並且又有修改過 MM
         //移除檔案 git rm
         //移動檔案 git mv 'file_go' 'file_to'
+        //
         //檢視亦暫存和未暫存的變更 git diff
         //檢視與上一次遞交與暫存內容的差異 git diff --staged
         /***檢查遞交前可能存在的空白錯誤 git diff --check***/
