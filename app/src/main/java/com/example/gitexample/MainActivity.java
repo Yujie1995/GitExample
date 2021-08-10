@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
         /***取消操作並重新修改commit名 git commit -m "修正commit" --amend***/
         //
         //
+        // 
         /***取消已暫存的檔案 get reset head <file_name>***/
         /***取消對檔案的修改 git checkout -- <file_name>***/
 
