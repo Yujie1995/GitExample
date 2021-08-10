@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         /***等待遞交的更改 Changes to be committed***/
         /***已更改但未增加到暫存區 Changes not staged for commit***/
         //簡潔顯示狀態資訊 git status -s
+        //
+        //
         //左邊表示已暫存,右邊表示已修改
         //未追蹤過 ??
         //已暫存的新檔案 A_
@@ -47,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         //重設上一次遞交的作者信息 git commit --amend --reset-author
         //顯示分支,合併差異點 git diff <current_branch_name>...<target_branch_name>
         /***取消操作並重新修改commit名 git commit -m "修正commit" --amend***/
+        //
         /***取消已暫存的檔案 get reset head <file_name>***/
         /***取消對檔案的修改 git checkout -- <file_name>***/
 
